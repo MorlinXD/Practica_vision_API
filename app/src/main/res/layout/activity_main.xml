@@ -86,8 +86,8 @@
         android:layout_width="0dp"
         android:layout_height="55dp"
         android:layout_margin="10dp"
-        android:onClick="procesarcodigo"
-        android:text="QR/Barras"
+        android:onClick="PersonalizedModel"
+        android:text="Rostros"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toRightOf="@id/btFace"
         app:layout_constraintRight_toRightOf="parent" />
